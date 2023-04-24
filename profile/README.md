@@ -1,5 +1,7 @@
 # Nahida Project
 
+# 2023.04.24: 当前项目停止开发，请移步新项目[KeQing Anime](https://github.com/KeQingAnime)
+
 ## 来访者, 你好呀 😊
 
 NahidaProject Anime 是动漫门户管理系统
